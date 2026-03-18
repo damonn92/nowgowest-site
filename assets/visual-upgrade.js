@@ -9,7 +9,7 @@
 
   var visualMap = {
     shopify: {
-      src: "/assets/visual-shopify.svg",
+      src: "/assets/visual-shopify.jpg",
       zh: {
         title: "Shopify 建站与转化",
         desc: "从站点结构到支付物流，完整落地可执行路径。",
@@ -22,7 +22,7 @@
       }
     },
     retail: {
-      src: "/assets/visual-retail.svg",
+      src: "/assets/visual-retail.jpg",
       zh: {
         title: "零售渠道入驻布局",
         desc: "平台与线下渠道同步推进，减少试错成本。",
@@ -35,7 +35,7 @@
       }
     },
     growth: {
-      src: "/assets/visual-growth.svg",
+      src: "/assets/visual-growth.jpg",
       zh: {
         title: "增长指标看板",
         desc: "围绕 CVR、AOV 与复购建立阶段优化节奏。",
@@ -48,7 +48,7 @@
       }
     },
     operations: {
-      src: "/assets/visual-operations.svg",
+      src: "/assets/visual-operations.jpg",
       zh: {
         title: "执行与交付管理",
         desc: "以周为单位推进任务、里程碑与交付清单。",
@@ -61,7 +61,7 @@
       }
     },
     guide: {
-      src: "/assets/visual-guide.svg",
+      src: "/assets/visual-guide.jpg",
       zh: {
         title: "指南与资料体系",
         desc: "把复杂策略拆成可复用模板与检查清单。",
@@ -74,7 +74,7 @@
       }
     },
     cases: {
-      src: "/assets/visual-case.svg",
+      src: "/assets/visual-case.jpg",
       zh: {
         title: "案例复盘视图",
         desc: "用真实结果拆解方案、动作与产出关系。",
