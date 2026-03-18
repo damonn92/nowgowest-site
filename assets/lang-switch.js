@@ -39,7 +39,7 @@
 
   if (!document.querySelector("script[data-nowgowest-visuals]")) {
     var visualScript = document.createElement("script");
-    visualScript.src = "/assets/visual-upgrade.js";
+    visualScript.src = "/assets/visual-upgrade.js?v=2";
     visualScript.setAttribute("data-nowgowest-visuals", "1");
     document.body.appendChild(visualScript);
   }
