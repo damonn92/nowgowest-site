@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="Home Depot logo">
+  <rect width="420" height="120" rx="16" fill="#ffffff"/>
+  <rect x="18" y="20" width="80" height="80" rx="12" fill="#f96302"/>
+  <text x="58" y="56" text-anchor="middle" font-size="18" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">HOME</text>
+  <text x="58" y="78" text-anchor="middle" font-size="18" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">DEPOT</text>
+  <text x="118" y="74" font-size="42" fill="#132b24" font-family="Arial, sans-serif" font-weight="700">Home Depot</text>
+</svg>

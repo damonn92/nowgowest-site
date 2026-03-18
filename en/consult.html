@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consultation | NowGoWest</title>
+    <meta name="description" content="Book a Shopify consultation and get stage-based recommendations for your brand." />
+    <link rel="canonical" href="https://nowgowest.com/en/consult.html" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="logo" href="/en/"><img src="/assets/logo.svg" alt="NowGoWest" /></a>
+        <nav class="nav-links">
+          <a href="/en/shopify-partner.html">Services</a>
+          <a href="/en/consult.html">Consultation</a>
+          <a href="/en/cases.html">Case Studies</a>
+          <a href="/en/guides.html">Guides</a>
+          <a href="/en/resources.html">Resources</a>
+          <a href="/en/about.html">About</a>
+          <a class="lang-switch" data-lang-target="zh" href="/">中文</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container page">
+      <section class="hero-panel reveal">
+        <p class="eyebrow">Consultation</p>
+        <h1>Book a 30-minute Shopify consultation</h1>
+        <p class="hero-copy">Submit your details and we will provide an initial recommendation based on your growth stage.</p>
+        <div class="announcement">
+          <strong>Attribution tracking:</strong>
+          <p>Traffic source parameters are recorded automatically to improve strategy diagnosis.</p>
+        </div>
+      </section>
+
+      <section class="split section reveal delay-1">
+        <form id="leadForm" class="lead-form" action="https://formsubmit.co/info@nowgowest.com" method="POST">
+          <input type="hidden" name="_subject" value="New Shopify Lead - NowGoWest" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_template" value="table" />
+          <input type="hidden" name="_next" value="https://nowgowest.com/en/thank-you.html" />
+          <input type="hidden" id="utm_source" name="utm_source" value="" />
+          <input type="hidden" id="utm_medium" name="utm_medium" value="" />
+          <input type="hidden" id="utm_campaign" name="utm_campaign" value="" />
+          <input type="hidden" id="utm_content" name="utm_content" value="" />
+          <input type="hidden" id="utm_term" name="utm_term" value="" />
+          <input type="hidden" id="landing_page" name="landing_page" value="" />
+          <input type="hidden" id="referrer_url" name="referrer_url" value="" />
+          <input type="hidden" id="first_visit_at" name="first_visit_at" value="" />
+
+          <div class="form-grid">
+            <label>Name*
+              <input type="text" name="name" required />
+            </label>
+            <label>Email*
+              <input type="email" name="email" required />
+            </label>
+            <label>Brand
+              <input type="text" name="brand" />
+            </label>
+            <label>Website
+              <input type="url" name="website" placeholder="https://" />
+            </label>
+            <label>Service Needed*
+              <select name="service" required>
+                <option value="">Select</option>
+                <option value="Starter Launch">Starter Launch</option>
+                <option value="Growth Retainer">Growth Retainer</option>
+                <option value="Plus/B2B Upgrade">Plus/B2B Upgrade</option>
+              </select>
+            </label>
+            <label>Target Market*
+              <select name="target_market" required>
+                <option value="">Select</option>
+                <option value="US">US</option>
+                <option value="UK">UK</option>
+                <option value="EU">EU</option>
+                <option value="Middle East">Middle East</option>
+                <option value="Global">Global</option>
+              </select>
+            </label>
+            <label>Budget Range
+              <select name="budget">
+                <option value="Undecided">Undecided</option>
+                <option value="&lt;$3,000">&lt;$3,000</option>
+                <option value="$3,000-$8,000">$3,000-$8,000</option>
+                <option value="$8,000-$20,000">$8,000-$20,000</option>
+                <option value="&gt;$20,000">&gt;$20,000</option>
+              </select>
+            </label>
+            <label>Monthly Revenue
+              <select name="monthly_revenue">
+                <option value="Pre-launch">Pre-launch</option>
+                <option value="&lt;$10,000">&lt;$10,000</option>
+                <option value="$10,000-$50,000">$10,000-$50,000</option>
+                <option value="$50,000-$200,000">$50,000-$200,000</option>
+                <option value="&gt;$200,000">&gt;$200,000</option>
+              </select>
+            </label>
+            <label class="full">WeChat/WhatsApp
+              <input type="text" name="contact" />
+            </label>
+            <label class="full">Current Challenges
+              <textarea name="message" rows="5" placeholder="e.g. slow launch, low conversion, B2B workflow complexity"></textarea>
+            </label>
+          </div>
+          <div class="hero-actions">
+            <button class="btn btn-primary" type="submit">Submit</button>
+            <a class="btn btn-ghost" href="/en/shopify-partner.html">View service plans</a>
+          </div>
+        </form>
+
+        <div class="card wechat-qr-section">
+          <h2>WeChat Consultation</h2>
+          <p>Scan to connect with our consultant.</p>
+          <img class="wechat-qr-image" src="/assets/wechat-qr.png" alt="NowGoWest WeChat QR" />
+          <p>Email: info@nowgowest.com</p>
+          <p>Tel: 949-617-9922</p>
+        </div>
+      </section>
+    </main>
+
+    <script src="/assets/lead-config.js"></script>
+    <script src="/assets/lead-form.js"></script>
+    <footer class="site-footer">
+      <div class="container footer-wrap">
+        <p>© 2026 NowGoWest</p>
+        <p>Email: <a href="mailto:info@nowgowest.com">info@nowgowest.com</a> - Tel: <a href="tel:+19496179922">949-617-9922</a></p>
+        <p>16 Technology Dr, Ste 110 Irvine CA 92618</p>
+      </div>
+    </footer>
+    <script src="/assets/lang-switch.js"></script>
+  </body>
+</html>

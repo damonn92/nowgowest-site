@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="Lowe's logo">
+  <rect width="420" height="120" rx="16" fill="#ffffff"/>
+  <path d="M18 90V52L58 24L98 52V90Z" fill="#004990"/>
+  <text x="58" y="69" text-anchor="middle" font-size="24" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">L</text>
+  <text x="118" y="74" font-size="44" fill="#004990" font-family="Arial, sans-serif" font-weight="700">Lowe's</text>
+</svg>

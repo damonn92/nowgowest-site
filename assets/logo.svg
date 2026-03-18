@@ -1,0 +1,10 @@
+<svg width="260" height="44" viewBox="0 0 260 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">NowGoWest logo</title>
+  <desc id="desc">Compass mark with NowGoWest wordmark</desc>
+  <rect x="1" y="1" width="42" height="42" rx="11" fill="#0C7A58"/>
+  <path d="M22 9L28.5 22L22 35L15.5 22L22 9Z" fill="#F7F7F2"/>
+  <circle cx="22" cy="22" r="4" fill="#0C7A58" stroke="#F7F7F2" stroke-width="2"/>
+  <text x="56" y="29" fill="#10241F" font-size="22" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="0.2">
+    NowGoWest
+  </text>
+</svg>

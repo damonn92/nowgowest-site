@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="Wayfair logo">
+  <rect width="420" height="120" rx="16" fill="#ffffff"/>
+  <polygon points="36,28 58,50 36,72 14,50" fill="#7f187f"/>
+  <polygon points="66,28 88,50 66,72 44,50" fill="#4a90e2"/>
+  <polygon points="96,28 118,50 96,72 74,50" fill="#f5a623"/>
+  <polygon points="126,28 148,50 126,72 104,50" fill="#50e3c2"/>
+  <text x="170" y="74" font-size="42" fill="#111111" font-family="Arial, sans-serif" font-weight="700">wayfair</text>
+</svg>

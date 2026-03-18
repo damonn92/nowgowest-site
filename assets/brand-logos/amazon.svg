@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="Amazon logo">
+  <rect width="420" height="120" rx="16" fill="#ffffff"/>
+  <text x="28" y="70" font-size="48" fill="#111111" font-family="Arial, sans-serif" font-weight="700">amazon</text>
+  <path d="M44 84C90 104 164 104 212 84" stroke="#ff9900" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <polygon points="206,76 226,82 212,94" fill="#ff9900"/>
+</svg>
