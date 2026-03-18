@@ -1,10 +1,15 @@
-<svg width="260" height="44" viewBox="0 0 260 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="280" height="48" viewBox="0 0 280 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">NowGoWest logo</title>
-  <desc id="desc">Compass mark with NowGoWest wordmark</desc>
-  <rect x="1" y="1" width="42" height="42" rx="11" fill="#0C7A58"/>
-  <path d="M22 9L28.5 22L22 35L15.5 22L22 9Z" fill="#F7F7F2"/>
-  <circle cx="22" cy="22" r="4" fill="#0C7A58" stroke="#F7F7F2" stroke-width="2"/>
-  <text x="56" y="29" fill="#10241F" font-size="22" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="0.2">
-    NowGoWest
-  </text>
+  <desc id="desc">Road arrow with star and GoWest wordmark</desc>
+  <!-- Road arrow icon -->
+  <path d="M6 36L22 12L38 36H28L22 24L16 36H6Z" fill="#1B2D5B"/>
+  <path d="M18 32L22 24L26 32H23.5L22 29L20.5 32H18Z" fill="#fff" opacity="0.5"/>
+  <!-- Star -->
+  <polygon points="32,8 34,14 40,14 35,18 37,24 32,20 27,24 29,18 24,14 30,14" fill="#F47B20"/>
+  <!-- NowGoWest text -->
+  <text x="48" y="23" fill="#1B2D5B" font-size="15" font-family="'Space Grotesk', 'Segoe UI', Arial, sans-serif" font-weight="700" letter-spacing="0.3">Now</text>
+  <text x="84" y="23" fill="#1B2D5B" font-size="15" font-family="'Space Grotesk', 'Segoe UI', Arial, sans-serif" font-weight="700" letter-spacing="0.3">Go</text>
+  <text x="108" y="23" fill="#F47B20" font-size="15" font-family="'Space Grotesk', 'Segoe UI', Arial, sans-serif" font-weight="700" letter-spacing="0.3">West</text>
+  <!-- Tagline -->
+  <text x="48" y="38" fill="#8A94A6" font-size="9" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif" font-weight="500" letter-spacing="1.5">SHOPIFY PARTNER</text>
 </svg>
